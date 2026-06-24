@@ -1,5 +1,3 @@
-
-````md
 # 🛒 Zepto Sales & Inventory Insights Dashboard
 
 A comprehensive Power BI dashboard designed to analyze Zepto's sales performance, inventory status, product performance, discount impact, and category-wise business insights.
@@ -285,25 +283,20 @@ The Zepto Sales & Inventory Insights Dashboard provides a comprehensive view of 
 The dashboard successfully transforms raw transactional data into actionable business insights for data-driven decision-making.
 ````
 
-### GitHub Repository Structure
+## 📂 GitHub Repository Structure
 
 ```text
 Zepto-Sales-Inventory-Dashboard/
 │
 ├── README.md
-│
 ├── Dashboard/
 │   └── Zepto Sales & Inventory Dashboard.pbix
-│
 ├── Dataset/
 │   └── zepto_dataset.xlsx
-│
 ├── Assets/
+│   ├── Dashboard Banner.png
 │   ├── Overview Dashboard.png
-│   ├── Performance Dashboard.png
-│   └── Dashboard Banner.png
-│
+│   └── Performance Dashboard.png
 └── Documentation/
     └── Project Report.pdf
 ```
-
